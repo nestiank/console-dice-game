@@ -7,7 +7,7 @@
 
 > 콘솔에서 주사위를 굴려서 컴퓨터를 이기면 점수를 얻고, 지면 점수를 잃는 게임입니다.
 
-<!-- ![Screenshot](screenshot.png) -->
+![Screenshot](documents/screenshot.png)
 
 <!-- Image definitions -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
