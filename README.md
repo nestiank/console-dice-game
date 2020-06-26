@@ -11,7 +11,7 @@
 
 <img src="documents/screenshot.png" height="400px">
 
-## 라이선스 및 공동체 
+## 라이선스 및 공동체 수정
 
 개인 프로젝트 백업용 저장소입니다.
 
