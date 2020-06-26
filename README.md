@@ -2,11 +2,11 @@
 
 ![Language][language-c]
 <br>
+![Participants][participants-solo]
+<br>
 [![School Project][korea-university-image]][korea-university-cs-url]
 ![Course][course-cose101]
 ![Grade][grade-a+]
-<br>
-![Participants][participants-solo]
 
 > 콘솔에서 주사위를 굴려서 컴퓨터를 이기면 점수를 얻고, 지면 점수를 잃는 게임입니다.
 
