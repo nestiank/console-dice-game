@@ -1,20 +1,23 @@
 # 콘솔 주사위 던지기 게임
 
-![Language][language-c]
+![language-c][language-c]
 <br>
-![Participants][participants-solo]
+![participants-solo][participants-solo]
 <br>
-[![School Project][korea-university-image]][korea-university-cs-url]
-![Course][course-cose101]
-![Grade][grade-a+]
+[![institution-korea-university][korea-university-image]][korea-university-cs-url]
+![course-computer-programming-i][course-cose101]
+![grade-a+][grade-a+]
 
 > 콘솔에서 주사위를 굴려서 컴퓨터를 이기면 점수를 얻고, 지면 점수를 잃는 게임입니다.
 
-## 스크린샷
+### 스크린샷
 
 <img src="documents/screenshot.png" height="400px">
 
-## 라이선스 및 공동체 수정
+### 작업 기간
+2017년 상반기
+
+### 라이선스 및 공동체 수정
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
